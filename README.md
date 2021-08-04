@@ -1,0 +1,1 @@
+This is typerhythm's first git project!
